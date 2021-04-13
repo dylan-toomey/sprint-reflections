@@ -1,4 +1,2 @@
 # sprint-reflections
-Place to store the Sprint Reflections
-
-I will use to this add my sprint reflections into GitHub.
+Incorrect way to do this, did this before the Forking of the relfection REPO. [Leaving here anyway]
